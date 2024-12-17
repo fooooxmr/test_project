@@ -53,6 +53,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-gem "maglevcms", "~> 1.7.3"
+gem "maglevcms", "~> 1.8.0"
 gem "maglevcms-hyperui-kit", "~> 1.2.0"
 gem "image_processing", "~> 1.2"
